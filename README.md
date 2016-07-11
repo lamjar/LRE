@@ -1,5 +1,3 @@
-# LRE
-LRE
 # 2L-Rule  
 [![Bower version](https://badge.fury.io/bo/2L-Rule.svg)](http://badge.fury.io/bo/2L-Rule)  
 
